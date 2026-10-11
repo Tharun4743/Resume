@@ -10,6 +10,15 @@
 
 ---
 
+### 🛠️ Building the PDF
+- **One-Click Build:** Double-click [`build.bat`](file:///c:/Users/tharu/Downloads/resume/build.bat) in the repository root.
+- **Manual Command:**
+  ```bash
+  xelatex -synctex=1 -interaction=nonstopmode resume.tex
+  ```
+
+---
+
 ### 🌐 Connect & Links
 - **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
 - **GitHub:** [@Tharun4743](https://github.com/Tharun4743)

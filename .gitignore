@@ -12,3 +12,6 @@
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local binaries
+/bin/
