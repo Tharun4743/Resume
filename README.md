@@ -1,16 +1,16 @@
-# Tharunkumar K ΓÇö Resume
+# Tharunkumar K — Resume
 
-≡ƒôä **Official Resume of Tharunkumar K**  
+📄 **Official Resume of Tharunkumar K**  
 *Full Stack Developer | AI Application Developer | SDE Aspirant*
 
 ---
 
-### ≡ƒôÑ Download & View
-- ≡ƒôæ **[Download / View Resume (PDF)](./resume.pdf)**
+### 📥 Download & View
+- 📑 **[Download / View Resume (PDF)](./resume.pdf)**
 
 ---
 
-### ≡ƒîÉ Connect & Links
+### 🌐 Connect & Links
 - **Portfolio:** [tharunkumark4743.netlify.app](https://tharunkumark4743.netlify.app/)
 - **GitHub:** [@Tharun4743](https://github.com/Tharun4743)
 - **LinkedIn:** [tharunkumark4743](https://linkedin.com/in/tharunkumark4743)
@@ -18,7 +18,7 @@
 - **Email:** [tharunkumark42007@gmail.com](mailto:tharunkumark42007@gmail.com)
 
 
-## License & Intellectual Property Notice
+## ðŸ“œ License & Intellectual Property Notice
 
 > [!CAUTION]
 > ### ðŸ”’ PROPRIETARY & CONFIDENTIAL INTELLECTUAL PROPERTY â€” ALL RIGHTS RESERVED
@@ -32,7 +32,7 @@
 
 ---
 
-## Engineering Author
+## ðŸ‘¨â€ðŸ’» Engineering Author
 
 <table border="0">
   <tr>
