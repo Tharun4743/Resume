@@ -1,22 +1,12 @@
-# Tharunkumar K — Resumes
+# Tharunkumar K — Resume
 
-📄 **Official Resumes of Tharunkumar K**  
-*Java/J2EE Developer | Data Science Intern | Full Stack Systems*
-
----
-
-### 📥 Download & View Resumes
-- 🏦 **[Citi Java/J2EE Developer Resume (PDF)](./resume-citi-java.pdf)** *(Targeted for Applications Development Programmer Analyst at Citi, Workday ATS)*
-- 🎯 **[Microsoft Data Science Intern Resume (PDF)](./resume-data-science.pdf)** *(Targeted for Eightfold.ai ATS, Data Science & Applied AI)*
-- 💻 **[General Software Engineering / SDE Resume (PDF)](./resume.pdf)** *(Targeted for Full-Stack Systems & SDE Roles)*
+📄 **Official Resume of Tharunkumar K**  
+*Full Stack Developer | AI Application Developer | SDE Aspirant*
 
 ---
 
-### 🛠️ Build Commands
-To compile all resumes into PDFs using the embedded Tectonic engine, simply run:
-```bat
-build.bat
-```
+### 📥 Download & View
+- 📑 **[Download / View Official Resume (PDF)](./resume.pdf)**
 
 ---
 

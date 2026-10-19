@@ -17,3 +17,5 @@ Thumbs.db
 /bin/
 build.bat
 resume.tex
+resume-*.tex
+resume-*.pdf
