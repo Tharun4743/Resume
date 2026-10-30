@@ -15,7 +15,8 @@ Thumbs.db
 
 # Local binaries & build scripts
 /bin/
-build.bat
+build*.bat
 resume.tex
 resume-*.tex
 resume-*.pdf
+Tharunkumar*.pdf
